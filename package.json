@@ -1,6 +1,6 @@
 {
   "name": "@dtomaszewski/ckeditor5-build-classic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -95,6 +95,7 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-font": "^16.0.0"
+    "@ckeditor/ckeditor5-font": "^16.0.0",
+    "@ckeditor/ckeditor5-upload": "^16.0.0"
   }
 }
